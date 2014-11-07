@@ -1,4 +1,4 @@
-package hw3;
+package randomNum;
 
 /*
  * This program produces three flavors of Random Zoombini names:

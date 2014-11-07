@@ -1,10 +1,10 @@
-package hw1;
+package bank;
 
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class Programming1 {
+public class Account_implement {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 
